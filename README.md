@@ -19,8 +19,8 @@ This project implements an image classification system using Convolutional Neura
 
 1. Clone the repository:
     ```sh
-    git clone <repository_url>
-    cd <repository_folder>
+    git clone https://github.com/svbuh/showcase_architecture_3-layer.git
+    cd showcase_architecture_3-layer
     ```
 
 2. Create a virtual environment:
